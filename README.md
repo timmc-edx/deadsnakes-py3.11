@@ -5,6 +5,7 @@ py3.11
 
 [mainline] and [nightly] builds are current supported for:
 
+- focal
 - jammy
 - noble
 
